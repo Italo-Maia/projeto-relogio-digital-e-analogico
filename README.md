@@ -29,4 +29,4 @@
 
 <br>
 
-  * Veja o projeto em funcionamento aqui: [Relógio Digital]() 🖱.
+  * Veja o projeto em funcionamento aqui: [Relógio Digital](https://italo-maia.github.io/projeto-relogio-digital-e-analogico/) 🖱.
